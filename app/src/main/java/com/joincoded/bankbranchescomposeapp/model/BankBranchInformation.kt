@@ -8,7 +8,7 @@ data class BankBranchInformation (
     val address: String,
     val phone: String,
     val hours: String,
-    val location: String?,//GOOGLE MAPS LINK
+    val location: String,//GOOGLE MAPS LINK
     val imageURI: Int
 
 )

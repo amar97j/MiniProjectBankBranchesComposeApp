@@ -18,7 +18,7 @@ object DummyDataRepository {
                 address = "Soor Street",
                 phone = "222-456-3424",
                 hours = "Mon-Fri: 9 AM - 5 PM",
-                location = "https://www.google.com/maps?q=123+Main+St",
+                location = "https://maps.app.goo.gl/AinqjALWMf8ZyM3X9?g_st=ic",
                 imageURI = R.drawable.kfh_default
             ),
             BankBranchInformation(
@@ -28,17 +28,17 @@ object DummyDataRepository {
                 address = "456 Oak St",
                 phone = "987-654-3210",
                 hours = "Mon-Fri: 10 AM - 6 PM",
-                location = "https://www.google.com/maps?q=456+Oak+St",
+                location = "https://maps.app.goo.gl/MQvQeq4RhydcRmBZA?g_st=ic",
                 imageURI = R.drawable.kfh_default
             ),
             BankBranchInformation(
                 id = 3,
-                name = "COODED",
+                name = "CODED",
                 type = BranchType.VIPBRANCH,
                 address = "21 street ",
                 phone = "112-654-3210",
                 hours = "Mon-Fri: 10 AM - 6 PM",
-                location = "https://www.google.com/maps?q=456+Oak+St",
+                location = "https://maps.app.goo.gl/ykyWCetNLuEy9dmJ9?g_st=ic",
                 imageURI = R.drawable.kfh_default
             )
 
