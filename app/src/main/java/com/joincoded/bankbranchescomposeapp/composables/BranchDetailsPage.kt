@@ -85,7 +85,7 @@ fun BranchDetailsPage(
 
                 Spacer(modifier = Modifier.height(16.dp))
 
-                ClickableText(text = AnnotatedString("Location" )
+                ClickableText(text = AnnotatedString("Location!" )
                 ){
                     localUriHandler.openUri(branch.location)
                 }
